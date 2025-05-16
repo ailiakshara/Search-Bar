@@ -10,7 +10,7 @@ Dynamic search suggestions based on user input
 Loads words from a dictionary.txt file
 Clean, colorful, and modern UI with cool tones
 Responsive layout compatible with different screen sizes
-Displays top 10 matching results
+Displays matching results
 Project Structure:
 
 index.html – Main HTML file that structures the UI
